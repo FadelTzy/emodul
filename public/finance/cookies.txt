@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.themeforest.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+maxartkiller.com	TRUE	/	FALSE	1999999999	PHPSESSID	tqv97gb04v8l9f6j6212r5lcmb
+
